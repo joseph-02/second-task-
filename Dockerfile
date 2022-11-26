@@ -1,4 +1,4 @@
-FROM open.jdk
+FROM openjdk
 
 WORKDIR /application
 
