@@ -2,7 +2,7 @@ FROM openjdk
 
 WORKDIR /application
 
-COPY joesph.java .
+COPY joseph.java .
 
 RUN javac joseph.java
 
