@@ -6,4 +6,4 @@ COPY joseph.java .
 
 RUN javac joseph.java
 
-CMD jave joseph
+CMD java joseph
